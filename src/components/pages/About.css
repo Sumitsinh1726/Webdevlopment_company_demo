@@ -1,0 +1,10 @@
+.abt-img {
+  width: 90%;
+}
+
+.abouttext {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-direction: column;
+}
